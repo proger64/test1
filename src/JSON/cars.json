@@ -1,0 +1,12 @@
+{
+    "cars": [
+        {
+            "title": "Audi",
+            "price": 1000
+        },
+        {
+            "title": "BMW",
+            "price": 1200
+        }
+    ]
+}
